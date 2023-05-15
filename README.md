@@ -1,0 +1,2 @@
+# palindrome
+function ispalindrome
